@@ -23,7 +23,7 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://linkedln.com/mehulmittal2601@gmail.com" target={"blank"}>
+          <a href="https://linkedin.com/mehulmittal2601@gmail.com" target={"blank"}>
             <AiFillLinkedin />
           </a>
           <a href="https://instagram.com/mehulmittall" target={"blank"}>
